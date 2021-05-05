@@ -1,0 +1,10 @@
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\CursoEF\Domain\bin\Debug\Domain.dll
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\CursoEF\Domain\bin\Debug\Domain.pdb
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\CursoEF\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\CursoEF\Domain\obj\Debug\Domain.dll
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\CursoEF\Domain\obj\Debug\Domain.pdb
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\CursoEF\Domain\bin\Debug\Domain.dll.config
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\CursoEF\Domain\bin\Debug\EntityFramework.dll
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\CursoEF\Domain\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\CursoEF\Domain\bin\Debug\EntityFramework.xml
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\CursoEF\Domain\bin\Debug\EntityFramework.SqlServer.xml

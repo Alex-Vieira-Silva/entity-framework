@@ -1,0 +1,16 @@
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\CursoEF\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\CursoEF\ConsoleApp\bin\Debug\ConsoleApp.exe
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\CursoEF\ConsoleApp\bin\Debug\ConsoleApp.pdb
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\CursoEF\ConsoleApp\bin\Debug\Data.dll
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\CursoEF\ConsoleApp\bin\Debug\Domain.dll
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\CursoEF\ConsoleApp\bin\Debug\EntityFramework.dll
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\CursoEF\ConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\CursoEF\ConsoleApp\bin\Debug\Data.pdb
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\CursoEF\ConsoleApp\bin\Debug\Data.dll.config
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\CursoEF\ConsoleApp\bin\Debug\Domain.pdb
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\CursoEF\ConsoleApp\bin\Debug\EntityFramework.xml
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\CursoEF\ConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\CursoEF\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\CursoEF\ConsoleApp\obj\Debug\ConsoleApp.exe
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\CursoEF\ConsoleApp\obj\Debug\ConsoleApp.pdb
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2017\Projects\CursoEF\ConsoleApp\bin\Debug\Domain.dll.config
